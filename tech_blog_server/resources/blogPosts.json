@@ -1,0 +1,112 @@
+[
+  {
+    "blog_number": 1,
+    "blog_post_date": "2016-03-25",
+    "blog_links": {
+      "article_link": "https://techfruit.com/2020/02/26/buying-a-refurbished-iphone-are-the-savings-worth-it/",
+      "blog_logo_link": ""
+    },
+    "blog_tags" : "{Featured, Gadgets}",
+    "blog_title" : "Buying a refurbished iPhone – are the savings worth it?",
+    "blog_details": "Choosing a second-hand device will save you money (often up to 50 per cent!), but also has the added benefit of reducing the amount of e-waste we produce..."
+  },
+  {
+    "blog_number": 2,
+    "blog_post_date": "2018-08-02",
+    "blog_links": {
+      "article_link": "https://techfruit.com/2020/01/24/youtubes-algorithms-might-radicalise-people-but-the-real-problem-is-weve-no-idea-how-they-work/",
+      "blog_logo_link": ""
+    },
+    "blog_tags" : "{Internet, News}",
+    "blog_title" : "YouTube’s algorithms might radicalise people – but the real problem is we’ve no idea how they work",
+    "blog_details": "It’s hard to argue that YouTube doesn’t play a role in radicalisation..."
+  },
+  {
+    "blog_number": 3,
+    "blog_post_date": "2018-09-05",
+    "blog_links": {
+      "article_link": "https://techfruit.com/2019/12/10/how-to-protect-yourself-from-the-rising-tide-of-ransomware/",
+      "blog_logo_link": ""
+    },
+    "blog_tags" : "{Internet, Featured}",
+    "blog_title" : "How to protect yourself from the rising tide of ransomware",
+    "blog_details": "Ransomware, a type of malware or virus that keeps users from accessing their systems or data until a sum of money is paid, is on the rise..."
+  },
+  {
+    "blog_number": 4,
+    "blog_post_date": "2019-12-02",
+    "blog_links": {
+      "article_link": "https://techfruit.com/2020/03/05/google-wants-to-move-uk-users-data-to-the-us-after-brexit-what-does-that-mean-for-your-rights/",
+      "blog_logo_link": ""
+    },
+    "blog_tags" : "{Internet, News}",
+    "blog_title" : "Google wants to move UK users’ data to the US after Brexit – what does that mean for your rights?",
+    "blog_details": "Reports that UK citizens are to lose the data protection from GDPR are overblown..."
+  },
+  {
+    "blog_number": 5,
+    "blog_post_date": "2019-11-02",
+    "blog_links": {
+      "article_link": "https://techfruit.com/2020/02/07/how-can-we-prepare-for-a-cashless-society/",
+      "blog_logo_link": ""
+    },
+    "blog_tags" : "{Internet, News}",
+    "blog_title" : "How can we prepare for a cashless society?",
+    "blog_details": "Stepping away from cash payments, individuals today are choosing to use their debit and credit cards or their phones to pay for even the smallest purchases..."
+  },
+  {
+    "blog_number": 6,
+    "blog_post_date": "2016-03-25",
+    "blog_links": {
+      "article_link": "https://techfruit.com/2020/02/26/buying-a-refurbished-iphone-are-the-savings-worth-it/",
+      "blog_logo_link": ""
+    },
+    "blog_tags" : "{Featured, Gadgets}",
+    "blog_title" : "Buying a refurbished iPhone – are the savings worth it?",
+    "blog_details": "Choosing a second-hand device will save you money (often up to 50 per cent!), but also has the added benefit of reducing the amount of e-waste we produce..."
+  },
+  {
+    "blog_number": 7,
+    "blog_post_date": "2018-08-02",
+    "blog_links": {
+      "article_link": "https://techfruit.com/2020/01/24/youtubes-algorithms-might-radicalise-people-but-the-real-problem-is-weve-no-idea-how-they-work/",
+      "blog_logo_link": ""
+    },
+    "blog_tags" : "{Internet, News}",
+    "blog_title" : "YouTube’s algorithms might radicalise people – but the real problem is we’ve no idea how they work",
+    "blog_details": "It’s hard to argue that YouTube doesn’t play a role in radicalisation..."
+  },
+  {
+    "blog_number": 8,
+    "blog_post_date": "2018-09-05",
+    "blog_links": {
+      "article_link": "https://techfruit.com/2019/12/10/how-to-protect-yourself-from-the-rising-tide-of-ransomware/",
+      "blog_logo_link": ""
+    },
+    "blog_tags" : "{Internet, Featured}",
+    "blog_title" : "How to protect yourself from the rising tide of ransomware",
+    "blog_details": "Ransomware, a type of malware or virus that keeps users from accessing their systems or data until a sum of money is paid, is on the rise..."
+  },
+  {
+    "blog_number": 9,
+    "blog_post_date": "2019-12-02",
+    "blog_links": {
+      "article_link": "https://techfruit.com/2020/03/05/google-wants-to-move-uk-users-data-to-the-us-after-brexit-what-does-that-mean-for-your-rights/",
+      "blog_logo_link": ""
+    },
+    "blog_tags" : "{Internet, News}",
+    "blog_title" : "Google wants to move UK users’ data to the US after Brexit – what does that mean for your rights?",
+    "blog_details": "Reports that UK citizens are to lose the data protection from GDPR are overblown..."
+  },
+  {
+    "blog_number": 10,
+    "blog_post_date": "2019-11-02",
+    "blog_links": {
+      "article_link": "https://techfruit.com/2020/02/07/how-can-we-prepare-for-a-cashless-society/",
+      "blog_logo_link": ""
+    },
+    "blog_tags" : "{Internet, News}",
+    "blog_title" : "How can we prepare for a cashless society?",
+    "blog_details": "Stepping away from cash payments, individuals today are choosing to use their debit and credit cards or their phones to pay for even the smallest purchases..."
+  }
+]
