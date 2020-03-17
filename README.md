@@ -1,6 +1,18 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-This project was bootstrapped with expressJS
+This project front end was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Project Back-end is written in ExpressJS.
+
+Data Storage: MongoDB.
+
+Clone and run the project.
+1. git clone git@github.com:gitanarasimhan/TechBlogs.git
+2. `cd tech_blog_client (run client)`
+3. Run `npm install`
+4. Run `yarn start`
+5. Open another terminal to run server
+6. `cd tech_blog_server`
+7. Run `npm install`
+8. Run `npm start`
 
 ## Available Scripts
 
