@@ -1,0 +1,33 @@
+@import "../../../node_modules/bootstrap/scss/functions";
+@import "../../../node_modules/bootstrap/scss/variables";
+@import "../../../node_modules/bootstrap/scss/mixins/_breakpoints";
+
+.titleContainer {
+    position: absolute;
+    top: 15%;
+    width: 100%;
+    text-align: center;
+}
+
+.title {
+    font-weight: normal;
+    @include media-breakpoint-between(xs, md) {
+      font-size: 5vw;
+    }
+
+    @include media-breakpoint-between(md, lg) {
+      font-size: 4vw;
+    }
+
+    @include media-breakpoint-between(lg, xl) {
+      font-size: 3vw;
+    }
+}
+
+.buttonContainer {
+  width: 100%;
+  position: absolute;
+  bottom: 30px;
+  display: flex;
+  justify-content: center;
+}

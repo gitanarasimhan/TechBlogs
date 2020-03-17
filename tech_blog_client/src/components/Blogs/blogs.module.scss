@@ -1,0 +1,82 @@
+@import "../../assets/styles/variables.scss";
+@import "../../../node_modules/bootstrap/scss/functions";
+@import "../../../node_modules/bootstrap/scss/variables";
+@import "../../../node_modules/bootstrap/scss/mixins/_breakpoints";
+
+
+.launches {
+    background-color: $launches-bg;
+    margin-top: 150px;
+}
+  
+.summary {
+    display: flex;
+    justify-content: center;
+    margin: 30px;
+    font-weight: bold;
+    color: $text-medium;
+}
+
+.emptyContainer {
+    display: flex;
+    justify-content: center;
+    margin: 30px;
+    font-weight: bold;
+    font-size: 30px;
+    padding-bottom: 40px;
+    color: $text-medium;
+}
+
+.blogs {
+ display: flex;
+ flex-direction: row;
+ flex-wrap: wrap;
+ justify-content: center;
+}
+
+.thumbnail {
+  margin: 30px;
+  padding: 20px;
+  @include media-breakpoint-between(xs, md) {
+    width: 100%;
+    font-size: 46px;
+  }
+  @include media-breakpoint-between(md, lg) {
+    width: 40%;
+    font-size: 50px;
+  }
+  @include media-breakpoint-between(lg, xl) {
+    width: 25%;
+    font-size: 3vw;
+  }
+  
+  background-color: rgb(87, 84, 84);
+  color: whitesmoke;
+  box-shadow: 2px 2px 2px 2px grey;
+}
+
+.tags {
+    background: white;
+    color: black;
+    padding: 5px;
+    text-align: left;
+    text-transform: uppercase;
+    font-size: 10px;
+}
+
+.title {
+    background: whitesmoke;
+    color: black;
+    margin-top: 20px;
+    padding: 10px;
+    text-align: left;
+    font-size: 20px;
+}
+.details {
+    background: whitesmoke;
+    color: black;
+    margin-top: 20px;
+    padding: 10px;
+    text-align: left;
+    font-size: 16px;
+}

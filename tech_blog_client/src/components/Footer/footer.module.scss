@@ -1,0 +1,23 @@
+@import "../../assets/styles/variables.scss";
+@import "../../../node_modules/bootstrap/scss/functions";
+@import "../../../node_modules/bootstrap/scss/variables";
+@import "../../../node_modules/bootstrap/scss/mixins/_breakpoints";
+
+.copyright {
+    color: $text-medium;
+    margin-top: 20px;
+    @include media-breakpoint-down(md) {
+        margin-top: 0;
+    }
+}
+
+.content {
+    min-height: 70px;
+    display: flex;
+    flex-direction: column-reverse;
+    align-items: center;
+    justify-content: flex-start;
+    padding-bottom: 20px;
+
+
+}
